@@ -1,0 +1,6 @@
+---
+applications:
+- name: ehour-restservices 
+  path: target/ehour-restservices-0.0.1-SNAPSHOT.jar
+  memory: 512M
+  instances: 1
